@@ -18,6 +18,7 @@ public class Practica10 {
         }
 
         JOptionPane.showMessageDialog(null, numTodos);
+        JOptionPane.showMessageDialog(null, numTodos);
     }
 
 }
