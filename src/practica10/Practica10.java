@@ -24,7 +24,8 @@ public class Practica10 {
             numTodos = numTodos+num+"  ";
             num++;
         }
-        JOptionPane.showMessageDialog(null, numTodos);
+        //quite la impresion 
+        //JOptionPane.showMessageDialog(null, numTodos);
     }
 
 }
