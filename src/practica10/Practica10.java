@@ -16,7 +16,7 @@ public class Practica10 {
             numTodos = numTodos + num + "  ";
             num++;
         }
-
+        JOptionPane.showMessageDialog(null, numTodos);
         JOptionPane.showMessageDialog(null, "Ud ya salio del programa");
         //opcion de salida del menu
     }
