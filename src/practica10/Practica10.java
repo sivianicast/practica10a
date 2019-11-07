@@ -16,10 +16,15 @@ public class Practica10 {
             numTodos = numTodos + num + "  ";
             num++;
         }
+<<<<<<< HEAD
 
         JOptionPane.showMessageDialog(null, numTodos);
         JOptionPane.showMessageDialog(null, "Ud ya salio del programa");
         //opcion de salida del menu
         
+=======
+        //quite la impresion 
+        //JOptionPane.showMessageDialog(null, numTodos);
+>>>>>>> 8863e46c1bb1c095608d10cfaf6256ce0660d7a5
     }
 }
