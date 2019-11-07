@@ -11,7 +11,7 @@ public class Practica10 {
         // TODO code application logic here
         //esta es la version 2
         
-        JOptionPane.showMessageDialog(null, "Ud ya salio inicio el programa");
+        JOptionPane.showMessageDialog(null, "Ud inicio el programa");
 
         String numTodos = "";
         int num = 1;
