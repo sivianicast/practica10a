@@ -10,6 +10,9 @@ public class Practica10 {
     public static void main(String[] args) {
         // TODO code application logic here
         //esta es la version 2
+        
+        JOptionPane.showMessageDialog(null, "Ud inicio el programa");
+
         String numTodos = "";
         int num = 1;
         while (num <= 100) {
@@ -18,6 +21,6 @@ public class Practica10 {
         }
         JOptionPane.showMessageDialog(null, numTodos);
         JOptionPane.showMessageDialog(null, "Ud ya salio del programa");
-        //opcion de salida del menu
+
     }
 }
